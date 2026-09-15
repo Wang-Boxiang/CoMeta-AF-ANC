@@ -1,6 +1,6 @@
 # Coupled Meta-Adaptive Filtering for Active Noise Control Under Time-Varying Acoustic Paths
 
-This repository is the official project page for the paper: **“Coupled Meta-Adaptive Filtering for Active Noise Control Under Time-Varying Acoustic Paths”** The manuscript has been submitted to the journal **Signal Processing**.
+This repository is the official project page for the paper: **“Coupled Meta-Adaptive Filtering for Active Noise Control Under Time-Varying Acoustic Paths”** The manuscript has been submitted to the **Signal Processing**.
 
 ## Code Availability
 
